@@ -32,7 +32,11 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-<img src="https://user-images.githubusercontent.com/58719230/102076718-2a0f5e00-3e2e-11eb-8d3a-43e89818a1c1.png">
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/102076718-2a0f5e00-3e2e-11eb-8d3a-43e89818a1c1.png" width="100%">
+</p>
+
 
 
 Output | FV | BV |
